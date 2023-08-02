@@ -875,7 +875,14 @@
     </div>
     <div class="stoc">
         <div class="container">
-            
+            <div class="stoc-inner">
+                <h1 class="stoc-title">Как мы работаем</h1>
+                <ul class="stoc-list">
+                    <li class="stoc-item">
+                        
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
     <NuxtPage />
